@@ -1,2 +1,2 @@
-# SENAC-PWDMA-1142133004-joseElias
-git add README.md
+# PWMA_ENTREGAS
+Repositório definido às primeiras aulas de Desenvolvimento Web
